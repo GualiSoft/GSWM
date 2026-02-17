@@ -2,9 +2,9 @@
 Gualidan's Sublime Window Manager a Tiling Window Manager built by developers with Wayland and Developers in mind.
 
 ## What is GSWM?
-GSWM is a multi-layout tiling window manager made for developers and for eye-candy. 
+GSWM is a multi-layout tiling window manager made for developers eye-candy and performance. 
 
-## For Develpers
+## For Developers?
 GSWM ships with different features to speed up your work and improve productivity:
 - Top Window: bind a shortcut to bring a window on top of all the others like your IDE and then cycle through the other windows.
 - Others are WIP
