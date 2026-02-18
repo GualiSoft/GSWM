@@ -17,5 +17,5 @@ GSWM ships with different features to speed up your work and improve productivit
 Fluxer: https://fluxer.gg/zUKEiu3E
 
 # Disclaimer
-
+This is bult primarly for Rust practice
 
