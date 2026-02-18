@@ -16,4 +16,6 @@ GSWM ships with different features to speed up your work and improve productivit
 # Community
 Fluxer: https://fluxer.gg/zUKEiu3E
 
+# Disclaimer
+
 
