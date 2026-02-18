@@ -15,7 +15,7 @@ GSWM ships with different features to speed up your work and improve productivit
 
 # Community
 Fluxer: https://fluxer.gg/zUKEiu3E
-Community contributions are 
+Community contributions are welcome. Just remeb
 
 # Disclaimer
 This is bult primarly for Rust practice if you see this that means that it is not recommended to use GSWM as it is still in an unstable not very maintained state. 
